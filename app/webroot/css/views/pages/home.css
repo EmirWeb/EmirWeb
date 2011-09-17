@@ -1,0 +1,15 @@
+body {
+	position: relative;
+	background-color: #111111;
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+}
+
+div.Content {
+	position: relative;
+	font-size: 12px;
+	top: 100px;
+	width: 600px;
+	margin: 0 auto;
+}

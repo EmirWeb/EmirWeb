@@ -1,0 +1,44 @@
+div.Group div.Row{
+	margin: 10px;
+}
+
+div.Group div.Label{
+	float: left;
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+div.Group div.Title{
+	font-size: 20px;
+	position: relative;
+	font-weight: bold;
+	padding: 5px;	
+	background-color: #AAAAAA;
+	color: #DDDDDD;
+}
+
+div.Group{
+	position: relative;	
+	border: 2px solid #001100;
+	background-color: #A4DD4A; 
+}
+
+div.Group div.Row a {
+	text-decoration: none;
+}
+
+div.Group div.Row a:link {
+	color: #FFFFFF;
+}
+
+div.Group div.Row a:visited {
+	color: #FFFFFF;
+}
+
+div.Group div.Row a:hover {
+	color: #333333;
+}
+
+div.Group div.Row a:active {
+	color: #FFFFFF;
+}

@@ -1,0 +1,72 @@
+body {
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;			
+}
+body div.HealthBar {
+	clear: both;
+	line-height: 20px;
+	font-size: 20px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;											
+}
+body div.Fps {
+	clear: both;
+	line-height: 20px;
+	font-size: 20px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;											
+}
+body div.Canvas div.Bullet {
+	position: absolute;
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+body div.Canvas {
+	clear:both;
+	overflow: hidden;
+	position: relative;
+	background-color: #000000;
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;				
+}
+body div.Canvas div.Star {
+	background-color: #0000FF;
+	position:absolute;
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+body div.Canvas div.StarFighter {
+	position:absolute;
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;				
+}			
+body div.Canvas div.Enemy {
+	position:absolute;
+	line-height:0px;
+	font-size: 0px;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;				
+}
+body div.ScoreBoard {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}

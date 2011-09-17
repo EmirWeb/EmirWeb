@@ -1,0 +1,24 @@
+body {
+    position: relative;
+	background-color: #111111;
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+}
+
+div.Table{
+	position: relative;
+	top: 100px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+div.Table div.RightColumn {
+	width: 250px;
+	float: right;
+}
+
+div.Table div.LeftColumn {
+	width: 250px;
+	float: left;
+}
