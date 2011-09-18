@@ -22,4 +22,5 @@ div.NavigationBar div.Button{
 div.NavigationBar div.Button:hover{
 	position: relative;
 	background-color: #F34600;
+	text-decoration: none;
 }
